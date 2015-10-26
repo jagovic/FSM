@@ -1,0 +1,16 @@
+﻿Compilazione avviata 26/10/2015 12:49:40.
+     1>Progetto "G:\Develop\Boost\Esempi\Progetto1\RoomStateMachine\RoomStateMachine.vcxproj" sul nodo 2 (destinazioni: Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"G:\Develop\Boost\boost_1_59_0\MS2013INSTALL\include\boost-1_59" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt RoomMain.cpp
+         RoomMain.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\Develop\Boost\Esempi\Progetto1\Debug\RoomStateMachine.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\Develop\Boost\Esempi\Progetto1\Debug\RoomStateMachine.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\Develop\Boost\Esempi\Progetto1\Debug\RoomStateMachine.lib" /MACHINE:X86 Debug\BKOrigine.obj
+         Debug\events.obj
+         Debug\FSMstates.obj
+         Debug\RoomMain.obj
+         RoomStateMachine.vcxproj -> G:\Develop\Boost\Esempi\Progetto1\Debug\RoomStateMachine.exe
+     1>Compilazione progetto "G:\Develop\Boost\Esempi\Progetto1\RoomStateMachine\RoomStateMachine.vcxproj" (destinazioni: Build) completata.
+
+Compilazione completata.
+
+Tempo trascorso 00:00:06.67
